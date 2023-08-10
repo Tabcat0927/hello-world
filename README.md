@@ -13,3 +13,6 @@ H~2~O
 X^2^
 This is so funny! :joy:
 > blockquote
+H~2~O
+> ![alt text](image.jpg)
+> 
